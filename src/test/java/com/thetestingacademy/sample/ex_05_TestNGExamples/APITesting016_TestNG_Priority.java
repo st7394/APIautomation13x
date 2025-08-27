@@ -14,7 +14,7 @@ public class APITesting016_TestNG_Priority {
         System.out.println("3");
     }
 
-    @Test(priority = 2)
+    @Test(priority = 0)
     public void test_t3(){
         System.out.println("2");
     }
